@@ -1,0 +1,1222 @@
+[
+  {
+    "id": "J01",
+    "company": "Amazon",
+    "title": "Software Dev Engineer I — University Talent Acquisition",
+    "location": "Bengaluru / Hyderabad / Chennai",
+    "experience": "2026 graduates; no years minimum",
+    "url": "https://www.amazon.jobs/en-gb/jobs/10454438/software-dev-engineer-i-amazon-university-talent-acquisition",
+    "roles": [
+      "SDE"
+    ],
+    "required": [
+      "degree"
+    ],
+    "preferred": [
+      "dsa",
+      "databases",
+      "architecture",
+      "communication",
+      "portfolio"
+    ],
+    "responsibilities": [
+      "features",
+      "collaboration",
+      "agile",
+      "performance"
+    ],
+    "notes": "2026 degree cohort is mandatory; algorithms and distributed systems are preferred here, not universal entry requirements.",
+    "accessed": "2026-10-22",
+    "publication_date": null,
+    "status": "Accessible listing; vacancy not independently confirmed",
+    "retrieval": "Description retrieved"
+  },
+  {
+    "id": "J02",
+    "company": "Heizen",
+    "title": "Software Development Engineer",
+    "location": "Remote / Hyderabad",
+    "experience": "0+ on detail; 0–2 in index",
+    "url": "https://www.heizen.work/careers/software-engineer",
+    "roles": [
+      "SDE"
+    ],
+    "required": [
+      "programming",
+      "collaboration"
+    ],
+    "preferred": [],
+    "responsibilities": [
+      "features",
+      "api",
+      "databases",
+      "cloud",
+      "architecture",
+      "problem_solving"
+    ],
+    "notes": "Database, API and cloud knowledge may be learned; ownership language describes prospective responsibilities.",
+    "accessed": "2026-10-22",
+    "publication_date": null,
+    "status": "Accessible listing; vacancy not independently confirmed",
+    "retrieval": "Description retrieved"
+  },
+  {
+    "id": "J03",
+    "company": "Hevo Data",
+    "title": "SDE I",
+    "location": "Bangalore",
+    "experience": "0–1 years",
+    "url": "https://jobs.lever.co/hevodata/6cbbe304-e065-4711-bf3e-756795d2bc2a",
+    "roles": [
+      "SDE",
+      "Backend_Developer"
+    ],
+    "required": [
+      "programming",
+      "oop",
+      "dsa",
+      "problem_solving",
+      "api",
+      "degree",
+      "architecture"
+    ],
+    "preferred": [
+      "portfolio"
+    ],
+    "responsibilities": [
+      "api",
+      "testing",
+      "debugging",
+      "performance",
+      "features",
+      "auth"
+    ],
+    "notes": "Java/TypeScript/Python alternatives; concurrency is a learning area, not an expert prerequisite.",
+    "accessed": "2026-10-22",
+    "publication_date": null,
+    "status": "Accessible listing; vacancy not independently confirmed",
+    "retrieval": "Description retrieved"
+  },
+  {
+    "id": "J04",
+    "company": "Jio",
+    "title": "Software Development Engineer I — 86612448",
+    "location": "Mumbai",
+    "experience": "0–3 years; broader range",
+    "url": "https://careers.jio.com/frmjobdescription.aspx?JBTITLE=gWTG74MfkJuQf63qpCNAqw%3D%3D&funcCode=am1AraTXtX4%2FW%2FEJK6dzzw%3D%3D&jbID=BJK5KQQgKnRtYB1AKswtAQ%3D%3D",
+    "roles": [
+      "SDE"
+    ],
+    "required": [
+      "git",
+      "sql",
+      "databases",
+      "testing",
+      "debugging",
+      "problem_solving",
+      "communication",
+      "learning",
+      "degree"
+    ],
+    "preferred": [
+      "html_css",
+      "javascript"
+    ],
+    "responsibilities": [
+      "features",
+      "collaboration",
+      "review",
+      "quality"
+    ],
+    "notes": "Posted 2026-07-29. Skills list also includes SDLC. Wider experience band retained explicitly.",
+    "accessed": "2026-10-22",
+    "publication_date": "2026-07-29",
+    "status": "Accessible listing; vacancy not independently confirmed",
+    "retrieval": "Description retrieved"
+  },
+  {
+    "id": "J05",
+    "company": "Born West",
+    "title": "Entry Level Software Developer",
+    "location": "Remote India",
+    "experience": "0–2 years",
+    "url": "https://www.bornwest.com/careers/entry-level-software-developer",
+    "roles": [
+      "Software_Developer",
+      "Full_Stack_Developer"
+    ],
+    "required": [
+      "programming",
+      "dsa",
+      "api",
+      "sql",
+      "databases",
+      "git",
+      "problem_solving",
+      "degree"
+    ],
+    "preferred": [
+      "react",
+      "portfolio",
+      "agile"
+    ],
+    "responsibilities": [
+      "features",
+      "testing",
+      "review",
+      "debugging",
+      "collaboration",
+      "quality",
+      "html_css",
+      "javascript"
+    ],
+    "notes": "Rails is the working stack, prior Rails exposure is preferred; does not justify adding Ruby to this candidate.",
+    "accessed": "2026-10-22",
+    "publication_date": null,
+    "status": "Accessible listing; vacancy not independently confirmed",
+    "retrieval": "Description retrieved"
+  },
+  {
+    "id": "J06",
+    "company": "New Street Technologies",
+    "title": "Associate Software Engineer",
+    "location": "Bengaluru",
+    "experience": "0–1 year",
+    "url": "https://newstreettech.com/careers/associate-software-engineer",
+    "roles": [
+      "Software_Developer"
+    ],
+    "required": [
+      "programming",
+      "dsa",
+      "sql",
+      "databases",
+      "git",
+      "portfolio",
+      "degree",
+      "review"
+    ],
+    "preferred": [
+      "react",
+      "cloud",
+      "ai_tools"
+    ],
+    "responsibilities": [
+      "features",
+      "testing",
+      "debugging"
+    ],
+    "notes": "Working Python required; mobile, FastAPI and AI coursework are optional exposure.",
+    "accessed": "2026-10-22",
+    "publication_date": null,
+    "status": "Accessible listing; vacancy not independently confirmed",
+    "retrieval": "Description retrieved"
+  },
+  {
+    "id": "J07",
+    "company": "Heizen",
+    "title": "Associate Software Engineer",
+    "location": "Remote / Hyderabad",
+    "experience": "0–2 years",
+    "url": "https://www.heizen.work/careers/associate-software-engineer",
+    "roles": [
+      "Software_Developer"
+    ],
+    "required": [
+      "programming",
+      "oop",
+      "dsa",
+      "databases",
+      "api",
+      "git",
+      "degree"
+    ],
+    "preferred": [],
+    "responsibilities": [
+      "features",
+      "testing",
+      "debugging",
+      "review",
+      "collaboration",
+      "communication",
+      "learning",
+      "quality",
+      "cloud"
+    ],
+    "notes": "One language suffices: Python, Java or JavaScript/TypeScript among examples.",
+    "accessed": "2026-10-22",
+    "publication_date": null,
+    "status": "Accessible listing; vacancy not independently confirmed",
+    "retrieval": "Description retrieved"
+  },
+  {
+    "id": "J08",
+    "company": "Advance Sensing",
+    "title": "Software Engineer",
+    "location": "Bengaluru",
+    "experience": "0–2 years",
+    "url": "https://advancesensing.com/pages/careers/careers/software-engineer.html",
+    "roles": [
+      "Software_Developer",
+      "Backend_Developer"
+    ],
+    "required": [
+      "programming",
+      "oop",
+      "dsa",
+      "sql",
+      "databases",
+      "git",
+      "problem_solving",
+      "debugging",
+      "degree"
+    ],
+    "preferred": [
+      "api",
+      "networking",
+      "linux",
+      "portfolio"
+    ],
+    "responsibilities": [
+      "features",
+      "testing",
+      "quality",
+      "collaboration",
+      "architecture",
+      "performance"
+    ],
+    "notes": "Python and basic Java; industrial integrations. TCP/IP and multithreading are preferred, not universal.",
+    "accessed": "2026-10-22",
+    "publication_date": null,
+    "status": "Accessible listing; vacancy not independently confirmed",
+    "retrieval": "Description retrieved"
+  },
+  {
+    "id": "J09",
+    "company": "Allata / IMRIEL",
+    "title": "Junior Software Engineer",
+    "location": "Vadodara",
+    "experience": "6 months–1 year",
+    "url": "https://jobs.lever.co/Allata/a0eb9210-f90b-4a71-9107-765fb4848001",
+    "roles": [
+      "Software_Developer",
+      "Full_Stack_Developer"
+    ],
+    "required": [
+      "programming",
+      "typescript",
+      "oop",
+      "api",
+      "sql",
+      "databases",
+      "git",
+      "react",
+      "ai_tools"
+    ],
+    "preferred": [
+      "cloud",
+      "docker",
+      "auth",
+      "agile"
+    ],
+    "responsibilities": [
+      "features",
+      "testing",
+      "debugging",
+      "review",
+      "quality",
+      "collaboration",
+      "communication",
+      "performance"
+    ],
+    "notes": "C#/.NET and Angular or React; SQL joins/indexes. React tag denotes an accepted alternative, not an exclusive requirement.",
+    "accessed": "2026-10-22",
+    "publication_date": null,
+    "status": "Accessible listing; vacancy not independently confirmed",
+    "retrieval": "Description retrieved"
+  },
+  {
+    "id": "J10",
+    "company": "Shipthis",
+    "title": "Full Stack Developer",
+    "location": "Bengaluru",
+    "experience": "0–2 years",
+    "url": "https://shipthis.freshteam.com/jobs/4cXVjGaL2Ywj",
+    "roles": [
+      "Full_Stack_Developer"
+    ],
+    "required": [
+      "programming",
+      "typescript",
+      "javascript",
+      "databases",
+      "problem_solving",
+      "communication",
+      "learning",
+      "degree"
+    ],
+    "preferred": [],
+    "responsibilities": [
+      "features",
+      "api",
+      "architecture",
+      "docker",
+      "cloud",
+      "collaboration"
+    ],
+    "notes": "Python/Node.js, Angular/Ionic and MongoDB; module lifecycle and deployment responsibilities.",
+    "accessed": "2026-10-22",
+    "publication_date": null,
+    "status": "Accessible listing; vacancy not independently confirmed",
+    "retrieval": "Description retrieved"
+  },
+  {
+    "id": "J11",
+    "company": "SCOI",
+    "title": "Junior Full Stack Developer",
+    "location": "Pune hybrid",
+    "experience": "1+; internships and strong projects count",
+    "url": "https://www.scoi.io/careers/junior-full-stack-developer",
+    "roles": [
+      "Full_Stack_Developer"
+    ],
+    "required": [
+      "react",
+      "programming",
+      "sql",
+      "databases",
+      "git",
+      "ai_tools"
+    ],
+    "preferred": [
+      "nextjs",
+      "api",
+      "portfolio",
+      "agile"
+    ],
+    "responsibilities": [
+      "features",
+      "testing",
+      "review",
+      "cloud",
+      "collaboration",
+      "learning"
+    ],
+    "notes": "Node.js required; NestJS/Next.js exposure preferred; basic deployment awareness rather than AWS expertise.",
+    "accessed": "2026-10-22",
+    "publication_date": null,
+    "status": "Accessible listing; vacancy not independently confirmed",
+    "retrieval": "Description retrieved"
+  },
+  {
+    "id": "J12",
+    "company": "Teal India",
+    "title": "Software Engineer — Full Stack",
+    "location": "Bangalore Urban",
+    "experience": "0–2 years",
+    "url": "https://wellfound.com/jobs/4246030-software-engineer-full-stack-yoe-0-2?autoOpenApplication=true",
+    "roles": [
+      "Full_Stack_Developer"
+    ],
+    "required": [
+      "api",
+      "problem_solving"
+    ],
+    "preferred": [
+      "javascript",
+      "typescript",
+      "react"
+    ],
+    "responsibilities": [
+      "features",
+      "quality",
+      "performance",
+      "databases",
+      "nextjs",
+      "programming",
+      "collaboration"
+    ],
+    "notes": "LLM API experience explicitly sought. Node/Express/Next/Mongo are working stack; JS/TS and React called bonus. Employer listing on Wellfound.",
+    "accessed": "2026-10-22",
+    "publication_date": null,
+    "status": "Accessible listing; vacancy not independently confirmed",
+    "retrieval": "Description retrieved"
+  },
+  {
+    "id": "J13",
+    "company": "OMS Software",
+    "title": "Junior Full Stack Developer — React Native + Spring Boot",
+    "location": "Bengaluru",
+    "experience": "1–2 years",
+    "url": "https://omssoftware.com.au/careers/junior-full-stack-developer-react-native-and-spring-boot/",
+    "roles": [
+      "Full_Stack_Developer",
+      "Mobile_Application_Developer"
+    ],
+    "required": [
+      "react_native",
+      "react",
+      "api",
+      "git",
+      "state",
+      "navigation",
+      "offline",
+      "programming"
+    ],
+    "preferred": [
+      "databases",
+      "ci_cd",
+      "auth"
+    ],
+    "responsibilities": [
+      "features",
+      "testing",
+      "debugging",
+      "review",
+      "collaboration",
+      "release"
+    ],
+    "notes": "WatermelonDB required; Java/Spring Boot basics. Play publishing familiarity or willingness to learn; iOS submission preferred.",
+    "accessed": "2026-10-22",
+    "publication_date": null,
+    "status": "Accessible listing; vacancy not independently confirmed",
+    "retrieval": "Description retrieved"
+  },
+  {
+    "id": "J14",
+    "company": "Heizen",
+    "title": "Software Engineer — Fullstack + React Native",
+    "location": "Remote / Hyderabad",
+    "experience": "0–2 years",
+    "url": "https://www.heizen.work/careers/software-engineer-fullstack-app",
+    "roles": [
+      "Full_Stack_Developer",
+      "Mobile_Application_Developer"
+    ],
+    "required": [
+      "react_native",
+      "javascript",
+      "typescript",
+      "programming",
+      "collaboration"
+    ],
+    "preferred": [],
+    "responsibilities": [
+      "features",
+      "api",
+      "databases",
+      "cloud",
+      "architecture",
+      "problem_solving"
+    ],
+    "notes": "Full-stack/mobile focus; SQL/NoSQL, REST and cloud may be learned. Does not imply every React Native role includes backend ownership.",
+    "accessed": "2026-10-22",
+    "publication_date": null,
+    "status": "Accessible listing; vacancy not independently confirmed",
+    "retrieval": "Description retrieved"
+  },
+  {
+    "id": "J15",
+    "company": "Shipthis",
+    "title": "Backend Developer",
+    "location": "Bengaluru",
+    "experience": "0–2 header; minimum 1 year Python/MongoDB",
+    "url": "https://shipthis.freshteam.com/jobs/P3OR_G1LPfuk",
+    "roles": [
+      "Backend_Developer"
+    ],
+    "required": [
+      "programming",
+      "databases",
+      "api",
+      "git",
+      "problem_solving",
+      "communication",
+      "collaboration",
+      "degree"
+    ],
+    "preferred": [
+      "javascript"
+    ],
+    "responsibilities": [
+      "features",
+      "debugging",
+      "quality",
+      "performance"
+    ],
+    "notes": "Python and MongoDB required; FastAPI and Angular appreciated. The minimum in the body overrides the zero-year header.",
+    "accessed": "2026-10-22",
+    "publication_date": null,
+    "status": "Accessible listing; vacancy not independently confirmed",
+    "retrieval": "Description retrieved"
+  },
+  {
+    "id": "J16",
+    "company": "Pace",
+    "title": "Backend Developer",
+    "location": "Gurugram",
+    "experience": "0–2 years or degree preferred (ambiguous wording)",
+    "url": "https://www.pacefin.in/careers/sof",
+    "roles": [
+      "Backend_Developer"
+    ],
+    "required": [
+      "programming",
+      "databases",
+      "git",
+      "linux",
+      "problem_solving",
+      "communication"
+    ],
+    "preferred": [
+      "realtime"
+    ],
+    "responsibilities": [
+      "testing",
+      "debugging",
+      "performance",
+      "cloud",
+      "features"
+    ],
+    "notes": "Python/Django/PostgreSQL and pandas/NumPy; Redis/WebSockets/Bash/trading are preferred. Confirm ambiguous eligibility.",
+    "accessed": "2026-10-22",
+    "publication_date": null,
+    "status": "Accessible listing; vacancy not independently confirmed",
+    "retrieval": "Description retrieved"
+  },
+  {
+    "id": "J17",
+    "company": "Wolvion",
+    "title": "Backend Developer — Node/Python",
+    "location": "Remote India",
+    "experience": "0–2 years",
+    "url": "https://www.wolvion.com/careers",
+    "roles": [
+      "Backend_Developer"
+    ],
+    "required": [],
+    "preferred": [],
+    "responsibilities": [
+      "programming",
+      "api",
+      "testing",
+      "quality",
+      "architecture",
+      "cloud",
+      "features"
+    ],
+    "notes": "Short role description: REST/integrations, business logic and monitoring; no separate mandatory skills list.",
+    "accessed": "2026-10-22",
+    "publication_date": null,
+    "status": "Accessible listing; vacancy not independently confirmed",
+    "retrieval": "Description retrieved"
+  },
+  {
+    "id": "J18",
+    "company": "SquareUp",
+    "title": "Junior Backend Developer",
+    "location": "New Delhi; onsite",
+    "experience": "0–2 years",
+    "url": "https://www.squareupdigital.com/careers",
+    "roles": [
+      "Backend_Developer"
+    ],
+    "required": [],
+    "preferred": [],
+    "responsibilities": [
+      "api",
+      "databases",
+      "programming",
+      "debugging",
+      "quality",
+      "performance",
+      "collaboration",
+      "cloud",
+      "features"
+    ],
+    "notes": "Spring Boot/Express alternatives. Search-rendered role body available; direct open returned empty. Lower retrieval confidence.",
+    "accessed": "2026-10-22",
+    "publication_date": null,
+    "status": "Accessible listing; vacancy not independently confirmed",
+    "retrieval": "Search-rendered description; direct retrieval empty or failed"
+  },
+  {
+    "id": "J19",
+    "company": "Genyx Labs",
+    "title": "Junior Frontend Engineer",
+    "location": "Greater Noida",
+    "experience": "0–2 years professional or serious projects",
+    "url": "https://www.genyxlabs.com/careers/junior-frontend-engineer",
+    "roles": [
+      "Frontend_Developer"
+    ],
+    "required": [
+      "html_css",
+      "javascript",
+      "git",
+      "performance",
+      "learning",
+      "degree"
+    ],
+    "preferred": [
+      "react",
+      "typescript",
+      "portfolio"
+    ],
+    "responsibilities": [
+      "features",
+      "api",
+      "responsive",
+      "accessibility",
+      "review",
+      "testing",
+      "ci_cd",
+      "collaboration"
+    ],
+    "notes": "Framework required, React preferred. WCAG AA is work scope, not proof of candidate compliance. Search body available; open empty.",
+    "accessed": "2026-10-22",
+    "publication_date": null,
+    "status": "Accessible listing; vacancy not independently confirmed",
+    "retrieval": "Search-rendered description; direct retrieval empty or failed"
+  },
+  {
+    "id": "J20",
+    "company": "Narix Labs",
+    "title": "Frontend Engineer — Junior",
+    "location": "Jaipur; remote/on-site conflict",
+    "experience": "6 months–2 years; internships/projects accepted",
+    "url": "https://www.narixlabs.com/careers/frontend-engineer-junior",
+    "roles": [
+      "Frontend_Developer"
+    ],
+    "required": [
+      "react",
+      "javascript",
+      "typescript",
+      "portfolio",
+      "review",
+      "communication"
+    ],
+    "preferred": [
+      "nextjs",
+      "ai_tools"
+    ],
+    "responsibilities": [
+      "features",
+      "testing",
+      "collaboration"
+    ],
+    "notes": "Figma/Tailwind preferred; scoped work and written updates. Resolve contradictory remote versus on-site statements before applying.",
+    "accessed": "2026-10-22",
+    "publication_date": null,
+    "status": "Accessible listing; vacancy not independently confirmed",
+    "retrieval": "Description retrieved"
+  },
+  {
+    "id": "J21",
+    "company": "Overt Minds",
+    "title": "Frontend Developer — Angular / React",
+    "location": "Bangalore North",
+    "experience": "0–1.5 body; 0–1 metadata",
+    "url": "https://overtminds.com/blog-new/careers/frontend-developer-angular-react/",
+    "roles": [
+      "Frontend_Developer"
+    ],
+    "required": [],
+    "preferred": [
+      "nextjs",
+      "accessibility",
+      "testing",
+      "ci_cd",
+      "docker"
+    ],
+    "responsibilities": [
+      "html_css",
+      "javascript",
+      "typescript",
+      "react",
+      "responsive",
+      "api",
+      "state",
+      "git",
+      "features",
+      "degree"
+    ],
+    "notes": "Posted 2026-01-15; Angular or React, Redux or Zustand, build tools. Basics appear under responsibilities; not relabeled mandatory.",
+    "accessed": "2026-10-22",
+    "publication_date": "2026-01-15",
+    "status": "Accessible listing; vacancy not independently confirmed",
+    "retrieval": "Description retrieved"
+  },
+  {
+    "id": "J22",
+    "company": "RED SAG",
+    "title": "Junior Frontend Developer",
+    "location": "Tiruppur",
+    "experience": "0–1 year",
+    "url": "https://www.red-sag.com/careers/apply/junior-frontend-developer",
+    "roles": [
+      "Frontend_Developer"
+    ],
+    "required": [
+      "react",
+      "javascript",
+      "html_css",
+      "responsive",
+      "portfolio",
+      "problem_solving",
+      "learning",
+      "collaboration"
+    ],
+    "preferred": [],
+    "responsibilities": [
+      "features"
+    ],
+    "notes": "Application deadline 2026-12-31; projects and attention to detail matter.",
+    "accessed": "2026-10-22",
+    "publication_date": null,
+    "status": "Accessible listing; vacancy not independently confirmed",
+    "retrieval": "Description retrieved"
+  },
+  {
+    "id": "J23",
+    "company": "Wolvion",
+    "title": "Frontend Developer — HTML/CSS/JS",
+    "location": "Remote India",
+    "experience": "Internship / fresher; full-time label",
+    "url": "https://www.wolvion.com/careers",
+    "roles": [
+      "Frontend_Developer"
+    ],
+    "required": [],
+    "preferred": [],
+    "responsibilities": [
+      "html_css",
+      "javascript",
+      "responsive",
+      "accessibility",
+      "features",
+      "collaboration"
+    ],
+    "notes": "Semantic HTML and vanilla JS; framework-free counterexample. Employment classification needs confirmation.",
+    "accessed": "2026-10-22",
+    "publication_date": null,
+    "status": "Accessible listing; vacancy not independently confirmed",
+    "retrieval": "Description retrieved"
+  },
+  {
+    "id": "J24",
+    "company": "Avenio Solutions",
+    "title": "App Developer",
+    "location": "Bengaluru",
+    "experience": "0–2 years",
+    "url": "https://aveniosolutions.com/careers",
+    "roles": [
+      "Mobile_Application_Developer"
+    ],
+    "required": [
+      "api",
+      "git",
+      "problem_solving",
+      "communication",
+      "collaboration",
+      "degree"
+    ],
+    "preferred": [],
+    "responsibilities": [
+      "react_native",
+      "flutter",
+      "features",
+      "quality",
+      "testing",
+      "review",
+      "debugging",
+      "performance",
+      "offline"
+    ],
+    "notes": "Flutter, React Native or native iOS/Android are alternatives; asynchronous programming required.",
+    "accessed": "2026-10-22",
+    "publication_date": null,
+    "status": "Accessible listing; vacancy not independently confirmed",
+    "retrieval": "Description retrieved"
+  },
+  {
+    "id": "J25",
+    "company": "Xenotix Labs",
+    "title": "React Native Junior Developer",
+    "location": "Remote / hybrid India; office context Delhi NCR / Bengaluru",
+    "experience": "Students / freshers; internship or junior",
+    "url": "https://www.xenotixlabs.com/careers/",
+    "roles": [
+      "Mobile_Application_Developer"
+    ],
+    "required": [
+      "react_native",
+      "react",
+      "state",
+      "portfolio"
+    ],
+    "preferred": [
+      "navigation",
+      "push"
+    ],
+    "responsibilities": [
+      "typescript",
+      "api",
+      "features",
+      "performance",
+      "offline",
+      "debugging",
+      "collaboration"
+    ],
+    "notes": "Components/props/hooks; AsyncStorage, React Navigation and Firebase optional. Separate junior opening from site's 2–5 year full-stack role.",
+    "accessed": "2026-10-22",
+    "publication_date": null,
+    "status": "Accessible listing; vacancy not independently confirmed",
+    "retrieval": "Description retrieved"
+  },
+  {
+    "id": "J26",
+    "company": "Xenotix Labs",
+    "title": "Flutter Junior Developer",
+    "location": "Remote / hybrid India; office context Delhi NCR / Bengaluru",
+    "experience": "Students / freshers; internship or junior",
+    "url": "https://www.xenotixlabs.com/careers/",
+    "roles": [
+      "Mobile_Application_Developer"
+    ],
+    "required": [
+      "flutter",
+      "navigation",
+      "git",
+      "portfolio"
+    ],
+    "preferred": [
+      "state"
+    ],
+    "responsibilities": [
+      "features",
+      "quality"
+    ],
+    "notes": "Dart/widgets/layouts; Provider/Riverpod/BLoC optional. Same employer/page as J25; distinct role.",
+    "accessed": "2026-10-22",
+    "publication_date": null,
+    "status": "Accessible listing; vacancy not independently confirmed",
+    "retrieval": "Description retrieved"
+  },
+  {
+    "id": "J27",
+    "company": "Cyber Infrastructure (CIS)",
+    "title": "React Native Developer Freshers",
+    "location": "Indore",
+    "experience": "0–1 year",
+    "url": "https://career.cisin.com/job/react-native-developers-jobs-for-freshers?PageSpeed=noscript",
+    "roles": [
+      "Mobile_Application_Developer"
+    ],
+    "required": [
+      "react_native",
+      "oop",
+      "dsa",
+      "databases",
+      "problem_solving",
+      "communication",
+      "agile",
+      "degree"
+    ],
+    "preferred": [
+      "javascript",
+      "react"
+    ],
+    "responsibilities": [
+      "features",
+      "testing",
+      "debugging",
+      "review",
+      "collaboration"
+    ],
+    "notes": "Republished 2026-08-03; open through 2027-08-04. SQL Server/MySQL familiarity; framework examples include Node, imprecisely.",
+    "accessed": "2026-10-22",
+    "publication_date": "2026-08-03 (republished)",
+    "status": "Accessible listing; vacancy not independently confirmed",
+    "retrieval": "Description retrieved"
+  },
+  {
+    "id": "J28",
+    "company": "New Street Technologies",
+    "title": "Software Engineer — Android",
+    "location": "Bengaluru",
+    "experience": "1–2 professional Android years",
+    "url": "https://newstreettech.com/careers/software-engineer-android",
+    "roles": [
+      "Mobile_Application_Developer"
+    ],
+    "required": [
+      "kotlin",
+      "api",
+      "git",
+      "communication",
+      "review",
+      "degree"
+    ],
+    "preferred": [
+      "portfolio",
+      "offline",
+      "release"
+    ],
+    "responsibilities": [
+      "features",
+      "testing",
+      "debugging",
+      "architecture"
+    ],
+    "notes": "Android SDK/lifecycle; Compose, coroutines and release exposure preferred despite Compose appearing in work scope.",
+    "accessed": "2026-10-22",
+    "publication_date": null,
+    "status": "Accessible listing; vacancy not independently confirmed",
+    "retrieval": "Description retrieved"
+  },
+  {
+    "id": "J29",
+    "company": "Daydreamsoft",
+    "title": "IOS Developer",
+    "location": "Surat",
+    "experience": "0–2 years",
+    "url": "https://daydreamsoft.com/career/ios-developer-jobs-in-surat",
+    "roles": [
+      "Mobile_Application_Developer"
+    ],
+    "required": [
+      "swift",
+      "api",
+      "offline",
+      "performance",
+      "push",
+      "git",
+      "ci_cd"
+    ],
+    "preferred": [],
+    "responsibilities": [
+      "features",
+      "debugging",
+      "quality",
+      "collaboration"
+    ],
+    "notes": "Swift or Objective-C/Cocoa Touch; Core Data/Animation, threading and memory tooling. Native track, not transferable skill labels for RN.",
+    "accessed": "2026-10-22",
+    "publication_date": null,
+    "status": "Accessible listing; vacancy not independently confirmed",
+    "retrieval": "Description retrieved"
+  },
+  {
+    "id": "J30",
+    "company": "Zeqo",
+    "title": "UI/UX Designer & Flutter Developer",
+    "location": "Remote / Mumbai",
+    "experience": "0–2 years",
+    "url": "https://zeqo.in/careers",
+    "roles": [
+      "Mobile_Application_Developer"
+    ],
+    "required": [
+      "flutter"
+    ],
+    "preferred": [],
+    "responsibilities": [
+      "features",
+      "design_system",
+      "portfolio"
+    ],
+    "notes": "Hybrid design/development role asks for Figma-to-Flutter, visual craft and a demonstrable app.",
+    "accessed": "2026-10-22",
+    "publication_date": null,
+    "status": "Accessible listing; vacancy not independently confirmed",
+    "retrieval": "Description retrieved"
+  },
+  {
+    "id": "J31",
+    "company": "American Express",
+    "title": "Software Engineer I — 26014930",
+    "location": "Gurugram hybrid",
+    "experience": "1–2 professional years",
+    "url": "https://careers.americanexpress.com/en/sites/CX_1/job/26014930/?intlink=us-amex-career-en-us-navigation-jobs",
+    "roles": [
+      "Software_Developer",
+      "Full_Stack_Developer"
+    ],
+    "required": [
+      "problem_solving",
+      "debugging",
+      "collaboration",
+      "learning",
+      "communication"
+    ],
+    "preferred": [
+      "degree",
+      "react",
+      "databases",
+      "cloud",
+      "docker",
+      "ci_cd",
+      "architecture"
+    ],
+    "responsibilities": [
+      "programming",
+      "react",
+      "api",
+      "features",
+      "quality",
+      "performance",
+      "ai_tools"
+    ],
+    "notes": "Posted 2026-10-16; closes 2026-10-23. Search body retrieved; direct open failed. Python/React with virtualization work; not a six-month match.",
+    "accessed": "2026-10-22",
+    "publication_date": "2026-10-16",
+    "status": "Accessible listing; vacancy not independently confirmed",
+    "retrieval": "Search-rendered description; direct retrieval empty or failed"
+  },
+  {
+    "id": "J32",
+    "company": "Safe Security",
+    "title": "Software Development Engineer I",
+    "location": "Bengaluru",
+    "experience": "1–3 professional years; broader range",
+    "url": "https://jobs.lever.co/safe/91e23536-2a94-496c-9c74-9dbfd815923f",
+    "roles": [
+      "SDE",
+      "Backend_Developer"
+    ],
+    "required": [
+      "programming",
+      "api",
+      "architecture",
+      "cloud",
+      "docker",
+      "sql",
+      "databases",
+      "problem_solving",
+      "debugging",
+      "degree"
+    ],
+    "preferred": [],
+    "responsibilities": [
+      "features",
+      "review",
+      "collaboration",
+      "quality",
+      "performance"
+    ],
+    "notes": "Go/Python/Node alternatives; distributed systems, Kubernetes and LLM fundamentals. Stretch comparator; not beginner baseline.",
+    "accessed": "2026-10-22",
+    "publication_date": null,
+    "status": "Accessible listing; vacancy not independently confirmed",
+    "retrieval": "Description retrieved"
+  },
+  {
+    "id": "J33",
+    "company": "Amazon",
+    "title": "Software Development Engineer I — IESP Merchant Tech",
+    "location": "Bengaluru",
+    "experience": "1+ non-internship professional years",
+    "url": "https://www.amazon.jobs/en/jobs/10511883/software-development-engineer-i-iesp-merchant-tech",
+    "roles": [
+      "SDE"
+    ],
+    "required": [
+      "programming"
+    ],
+    "preferred": [
+      "degree"
+    ],
+    "responsibilities": [
+      "features",
+      "collaboration",
+      "architecture",
+      "performance",
+      "agile"
+    ],
+    "notes": "Do not count projects or internships toward the explicit professional minimum.",
+    "accessed": "2026-10-22",
+    "publication_date": null,
+    "status": "Accessible listing; vacancy not independently confirmed",
+    "retrieval": "Description retrieved"
+  },
+  {
+    "id": "J34",
+    "company": "Unico Connect",
+    "title": "Frontend Developer — React",
+    "location": "Mumbai",
+    "experience": "1–3 production React/TypeScript years; broader range",
+    "url": "https://unicoconnect.com/careers/frontend-react-developer",
+    "roles": [
+      "Frontend_Developer"
+    ],
+    "required": [
+      "react",
+      "nextjs",
+      "typescript",
+      "html_css",
+      "git",
+      "ci_cd",
+      "accessibility",
+      "responsive",
+      "state",
+      "communication",
+      "degree"
+    ],
+    "preferred": [
+      "design_system"
+    ],
+    "responsibilities": [
+      "features",
+      "testing",
+      "performance",
+      "collaboration",
+      "review"
+    ],
+    "notes": "Core Web Vitals and test tools in work scope; Storybook, server components and motion preferred. Stretch comparator.",
+    "accessed": "2026-10-22",
+    "publication_date": null,
+    "status": "Accessible listing; vacancy not independently confirmed",
+    "retrieval": "Description retrieved"
+  },
+  {
+    "id": "J35",
+    "company": "Aganitha",
+    "title": "Jr Full Stack Developer",
+    "location": "Hyderabad hybrid",
+    "experience": "Junior; numerical experience unspecified",
+    "url": "https://www.aganitha.ai/careers/jr-full-stack-developer/",
+    "roles": [
+      "Full_Stack_Developer"
+    ],
+    "required": [
+      "typescript",
+      "react",
+      "nextjs",
+      "programming",
+      "databases",
+      "api",
+      "linux",
+      "docker",
+      "ci_cd",
+      "state",
+      "performance"
+    ],
+    "preferred": [
+      "programming"
+    ],
+    "responsibilities": [
+      "features",
+      "cloud",
+      "collaboration",
+      "communication",
+      "learning"
+    ],
+    "notes": "Junior title but extensive DevOps expectations. Python/Java/C++ are preferred; TS/Node is required. Numeric eligibility unknown.",
+    "accessed": "2026-10-22",
+    "publication_date": null,
+    "status": "Accessible listing; vacancy not independently confirmed",
+    "retrieval": "Description retrieved"
+  }
+]
