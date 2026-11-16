@@ -19,8 +19,8 @@
 \usepackage{fontawesome5} % for using icons
 \usepackage{amsmath} % for math
 \usepackage[
-    pdftitle={Aditya Shriwas's CV},
-    pdfauthor={Aditya Shriwas},
+    pdftitle={Your Name - Resume},
+    pdfauthor={Your Name},
     pdfcreator={LaTeX with RenderCV},
     colorlinks=true,
     urlcolor=primaryColor
@@ -43,7 +43,7 @@
     \usepackage{lmodern}
 \fi
 
-% Preserve the first SDE draft's Latin Modern style with working bold/italic shapes.
+% Latin Modern with bold and italic support.
 \usepackage[T1]{fontenc}
 \usepackage{lmodern}
 
@@ -153,222 +153,64 @@
 
 
 \begin{document}
-    \newcommand{\AND}{\unskip
-        \cleaders\copy\ANDbox\hskip\wd\ANDbox
-        \ignorespaces
-    }
-    \newsavebox\ANDbox
-    \sbox\ANDbox{$|$}
+\begin{header}
+\fontsize{25 pt}{25 pt}\selectfont \textbf{Your Name}
+\vspace{3 pt}
+\normalsize
 
-    \begin{header}
-        \fontsize{25 pt}{25 pt}\selectfont \textbf{Aditya Shriwas}
+City, Country \;|\; \href{mailto:you@example.com}{you@example.com} \;|\; +00 000 000 0000\\
+\href{https://example.com}{example.com} \;|\; \href{https://linkedin.com/in/your-profile}{linkedin.com/in/your-profile} \;|\; \href{https://github.com/your-handle}{github.com/your-handle}
+\end{header}
 
-        \vspace{3 pt}
-        \centering
-        \normalsize
-\mbox{Indore, India}%
-\kern 6.0 pt%
-\AND%
-\kern 6.0 pt%
-\mbox{\hrefWithoutArrow{mailto:adityashriwas09@gmail.com}{adityashriwas09@gmail.com}}%
-\kern 6.0 pt%
-\AND%
-\kern 6.0 pt%
-\mbox{\hrefWithoutArrow{tel:+91-9131067455}{91310 67455}}%
-\\
-\mbox{\hrefWithoutArrow{https://www.adityashriwas.in/}{adityashriwas.in}}%
-\kern 6.0 pt%
-\AND%
-\kern 6.0 pt%
-\mbox{\hrefWithoutArrow{https://linkedin.com/in/adityashriwas18}{linkedin.com/in/adityashriwas18}}%
-\kern 6.0 pt%
-\AND%
-\kern 6.0 pt%
-\mbox{\hrefWithoutArrow{https://github.com/adityashriwas}{github.com/adityashriwas}}%
+\section{\textbf{Professional Summary}}
+\begin{onecolentry}
+Replace this with a brief summary of your target role, supported responsibilities, and strengths. Do not present sample text as your experience.
+\end{onecolentry}
 
-
-    \end{header}
-
-    % \vspace{0.1 cm}
-
-% ==================== PROFESSIONAL SUMMARY ====================
-    \section{\textbf{Professional Summary}}
-       
-        \begin{onecolentry}
-Software engineer with professional frontend experience and full-stack projects spanning interfaces, APIs, and databases. Experienced in authentication, payments, maintenance, debugging, and collaborative feature delivery.
-        \end{onecolentry}
-
-
-        % ==================== Experience ====================
-    
 \section{\textbf{Experience}}
-        
- \begin{twocolentry}{
-           \textbf{\textit{Mar 2026 \textendash{} Present}}\\
-    \textit{Indore, India}
-        }
-           \textbf{\textbf{\textbf{Sofmen Technologies Private Limited} } }
-           
-             \textit{Junior Software Engineer}
-            \end{twocolentry}
-
-\vspace{0.10 cm}
-\begin{onecolentry}
-\begin{highlights}
-                \item Translated Figma designs into React Native application workflows, coordinating implementation with designers and backend engineers.
-                \item Fixed functional defects and refined interfaces from stakeholder feedback to improve application behavior.
-                \item Implemented requested features during maintenance of existing applications, extending established codebases to meet evolving requirements.
-                \item Delivered features and fixes within deadlines, coordinating changes with senior engineers through Git/GitLab.
-                \item Used AI-assisted tools to speed up feature implementation and debugging, reviewing and testing generated code before integrating it into existing applications.
-\end{highlights}
-\end{onecolentry}
-
-% ==================== PROJECTS ====================
-
-   \section{\textbf{Projects}}       
-\begin{twocolentry}{
-    \href{https://www.talecrafterai.com/}{\textit{\textbf{Live}}}
-}
-\textbf{TaleCrafter AI} \;|\;
-\textit{Next.js, TypeScript, Node.js, Express.js, PostgreSQL}
+\begin{twocolentry}{\textbf{\textit{Start -- End}}\\\textit{Location}}
+\textbf{Company Name}\\
+\textit{Actual Job Title}
 \end{twocolentry}
-
 \vspace{0.10 cm}
 \begin{onecolentry}
 \begin{highlights}
-               \item[-] Developed frontend workflows, backend APIs, and data storage for an AI storytelling app used by real users to generate illustrated stories, save drafts, and manage personal libraries.
-                \item[-] Integrated Neon Auth, Razorpay subscriptions, and ownership checks to control story creation and PDF export access.
+\item Describe a feature or fix you personally delivered, the relevant implementation detail, and its user benefit.
+\item Explain a distinct maintenance or collaboration contribution. Include measured results only when supported.
 \end{highlights}
 \end{onecolentry}
 
-\vspace{0.3 cm}
-
-\begin{twocolentry}{
-    \href{https://e-learning-five-kappa.vercel.app/}{\textit{\textbf{Live}}}
-}
-\textbf{E-Learning} \;|\;
-\textit{React.js, Node.js, Express.js, MongoDB, JWT, Stripe}
+\section{\textbf{Projects}}
+\begin{twocolentry}{\href{https://example.com}{\textit{\textbf{Live}}}}
+\textbf{Project Name} \;|\; \textit{Relevant technologies}
 \end{twocolentry}
-
 \vspace{0.10 cm}
 \begin{onecolentry}
 \begin{highlights}
-               \item[-] Developed the complete learning platform across frontend, backend, and database, with instructor course management, video lessons, and progress tracking.
-                \item[-] Integrated Stripe Checkout and signed webhooks to record purchases and enroll learners.
+\item[-] Explain the user problem and the part you implemented, distinguishing your work from team contributions.
+\item[-] Describe another meaningful implementation or improvement without repeating the stack above.
 \end{highlights}
 \end{onecolentry}
 
-\vspace{0.3 cm}
-
-\begin{twocolentry}{}
-\textbf{ExpressU} \;|\;
-\textit{React Native, TypeScript, React Navigation, TanStack Query}
+\section{\textbf{Education}}
+\begin{twocolentry}{\textbf{\textit{Start -- End}}\\\textit{Location}}
+\textbf{Institution Name}\\
+\textit{Degree and Field of Study}
 \end{twocolentry}
-
-\vspace{0.10 cm}
-\begin{onecolentry}
-\begin{highlights}
-                \item[-] Built group-management and signal screens so caregivers and receivers can communicate needs without typing messages.
-                \item[-] Integrated authentication and group APIs with Keychain storage, paginated timelines, acknowledgements, WebSockets, and Firebase notifications.
-\end{highlights}
-\end{onecolentry}
-
-% \vspace{0.3 cm}
-
-% \begin{twocolentry}{}
-% \textbf{SafetyBriefer} \;|\;
-% \textit{Expo, TypeScript, Expo Router, Zustand, Zod}
-% \end{twocolentry}
-
-% \vspace{0.10 cm}
-% \begin{onecolentry}
-% \begin{highlights}
-%                 \item[-] Refined code in an Expo/React Native workplace safety app supporting AI-assisted meetings, incident reports, and team records, using domain hooks and shared state.
-% \end{highlights}
-% \end{onecolentry}
-
-
-% ==================== Education ====================
-
-
-    \section{\textbf{Education}}       
-        \begin{twocolentry}{
-           \textbf{\textit{Sep 2022 \textendash{} Jun 2026}}\\
-    \textit{Indore, India}
-        }
-           \textbf{\textbf{\textbf{Malwa Institute of Technology, RGPV} } }
-           
-             \textit{Bachelor of Technology, Computer Science and Engineering}
-            \end{twocolentry}
-            \vspace{0.01 cm}
-           \begin{onecolentry}
-{\small
-\textit{\textbf{Coursework:} Data Structures and Algorithms, Object-Oriented Programming, Computer Networks, Database Management System}
-}
-\end{onecolentry}
-
-
-% ==================== Technical Skills ====================
-
 
 \section{\textbf{Technical Skills}}
-
 \begin{onecolentry}
-\textbf{Languages:} JavaScript (ES6+), TypeScript, SQL, Java
+\textbf{Languages:} Replace with supported skills
 \end{onecolentry}
-
 \vspace{0.15 cm}
-
 \begin{onecolentry}
-\textbf{Backend \& APIs:} Node.js, Express.js, Fastify, REST APIs, JWT, Webhooks, Axios
+\textbf{Frameworks \& Tools:} Replace with relevant tools you have used
 \end{onecolentry}
 
-\vspace{0.15 cm}
-
+\section{\textbf{Achievements}}
 \begin{onecolentry}
-\textbf{Databases \& ORMs:} PostgreSQL, MongoDB, SQL Server, Drizzle ORM, Mongoose
-\end{onecolentry}
-
-\vspace{0.15 cm}
-
-\begin{onecolentry}
-\textbf{Frontend:} React.js, Next.js, React Native, Expo, HTML5, CSS3, Tailwind CSS, TanStack Query, Redux Toolkit Query
-\end{onecolentry}
-
-\vspace{0.15 cm}
-
-\begin{onecolentry}
-\textbf{Testing \& Developer Tools:} Postman, Git, GitHub, GitLab, Xcode, Android Studio
-\end{onecolentry}
-   
-
-% ================ EXTRACURRICULAR ACTIVITIES ====================    
-
- \section{\textbf{Achievements} }
-        
-\begin{onecolentry}
- \begin{highlights}
-            \item Selected among \textbf{Top 150 projects out of 1,600+ submissions} across engineering colleges in Madhya Pradesh.
-            % to present at \textbf{SRIJAN 2025}, a university-level innovation event organized by RGPV. 
-            \item TaleCrafter AI was featured on the official Pollinations AI Showcase.
-           \item Placed \textbf{529th} among \textbf{5,000+} competitors in CodeClash 2025, an algorithmic programming competition.
+\begin{highlights}
+\item Replace with a verifiable achievement, or remove this entry if not applicable.
 \end{highlights}
 \end{onecolentry}
-
-        %         \section{Certifications \& Achievements }
-        
-        % \begin{onecolentry}
-        % \begin{highlights}
-        %     \item Selected among \textbf{Top 150 innovative projects out of 1,600+ submissions} across engineering colleges in Madhya Pradesh to present at \textbf{SRIJAN 2025}, a university-level innovation event organized by RGPV. 
-        %     \item  \textbf{Ranked 529 out of 5000+ participants} in CodeClash 2025 – The Battle of Algorithms. 
-        %    % \item \textbf{Deloitte Australia Technology Job Simulation on Forage}  
-        %    \item \textbf{Artificial Intelligence for India 2.0} GUVI GEEK Network, IITM Research park
-        %    \item  \textbf{Foundation of Cloud IoT Edge ML} NPTEL Online Certification, IIT Kanpur
-        %    \end{highlights}
-        %     \end{onecolentry}
-
-
-
-    
-
 \end{document}

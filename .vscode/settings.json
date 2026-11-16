@@ -1,18 +1,29 @@
 {
-  "files.autoSave": "afterDelay",
+  "files.autoSave": "off",
   "files.autoSaveDelay": 1000,
   "latex-workshop.latex.tools": [
     {
       "name": "tectonic",
-      "command": "/opt/homebrew/bin/tectonic",
-      "args": ["--synctex", "--keep-logs", "--outdir", "%OUTDIR%", "%DOC_EXT%"]
+      "command": "tectonic",
+      "args": [
+        "--synctex",
+        "--keep-logs",
+        "--outdir",
+        "%OUTDIR%",
+        "%DOC_EXT%"
+      ]
     }
   ],
   "latex-workshop.latex.recipes": [
-    { "name": "Tectonic", "tools": ["tectonic"] }
+    {
+      "name": "Tectonic",
+      "tools": [
+        "tectonic"
+      ]
+    }
   ],
   "latex-workshop.latex.recipe.default": "first",
-  "latex-workshop.latex.autoBuild.run": "onFileChange",
+  "latex-workshop.latex.autoBuild.run": "never",
   "latex-workshop.latex.autoBuild.interval": 1000,
   "latex-workshop.latex.outDir": "%DIR%/build",
   "latex-workshop.view.pdf.viewer": "tab",

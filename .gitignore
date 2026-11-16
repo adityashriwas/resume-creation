@@ -1,2 +1,12 @@
+/local/
 /build/
+/final-resumes/**
+!/final-resumes/**/
+!/final-resumes/**/.gitkeep
+*.pdf
+*.synctex.gz
+*.aux
+*.log
+.env
+.env.*
 .DS_Store
